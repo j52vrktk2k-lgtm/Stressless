@@ -12,7 +12,6 @@ Webapp mobile de mini-jeux anti-stress et de jeux de réflexion. HTML/CSS/JS pur
 **Réfléchir**
 - 🃏 **Memory** : retrouve les paires (3 niveaux, record de coups).
 - 🧩 **Taquin** : 3×3, 4×4 ou 5×5, toujours soluble, record coups/temps.
-- 🔢 **Sudoku** : grilles générées à solution unique (3 niveaux), notes, sauvegarde automatique.
 
 ## Lancer en local
 

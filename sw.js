@@ -1,5 +1,5 @@
 // Cache hors ligne. Incrémenter VERSION à chaque mise à jour pour forcer le rafraîchissement.
-const VERSION = 'stressless-v1';
+const VERSION = 'stressless-v2';
 const FILES = [
   './',
   'index.html',
@@ -13,7 +13,6 @@ const FILES = [
   'js/games/mandala.js',
   'js/games/memory.js',
   'js/games/slider.js',
-  'js/games/sudoku.js',
   'icons/icon.svg',
   'icons/icon-180.png',
   'icons/icon-192.png',

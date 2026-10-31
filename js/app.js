@@ -5,10 +5,9 @@ import breathe from './games/breathe.js';
 import mandala from './games/mandala.js';
 import slider from './games/slider.js';
 import memory from './games/memory.js';
-import sudoku from './games/sudoku.js';
 
 // Pour ajouter un jeu : créer un module dans js/games/ et l'ajouter ici.
-const GAMES = [bubbles, breathe, mandala, memory, slider, sudoku];
+const GAMES = [bubbles, breathe, mandala, memory, slider];
 
 const CATEGORIES = [
   { id: 'relax', title: 'Se détendre', sub: 'Pas de score, pas de pression.' },
